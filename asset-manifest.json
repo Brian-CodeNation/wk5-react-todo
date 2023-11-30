@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/wk5-react-todo/static/css/main.f855e6bc.css",
+    "main.js": "/github.io/wk5-react-todo/static/js/main.5981924d.js",
+    "index.html": "/github.io/wk5-react-todo/index.html",
+    "main.f855e6bc.css.map": "/github.io/wk5-react-todo/static/css/main.f855e6bc.css.map",
+    "main.5981924d.js.map": "/github.io/wk5-react-todo/static/js/main.5981924d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5981924d.js"
+  ]
+}
