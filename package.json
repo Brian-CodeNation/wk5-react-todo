@@ -2,7 +2,7 @@
   "name": "todolistdemo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Brian-CodeNation/github.io/wk5-react-todo",
+  "homepage": "https://Brian-CodeNation/github.io/wk5-react-todo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
